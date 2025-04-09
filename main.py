@@ -1,5 +1,4 @@
-num1 = 3
-num2 = 2
-sum = num1 + num2
-print(sum)
-print(num1)
+def sum_of_numbers(*numbers):
+    print("sum: ", sum(numbers))
+
+sum_of_numbers(2, 3, 4)
