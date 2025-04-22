@@ -3,9 +3,7 @@
         "beautifulsoup",
         "dotenv",
         "jumia",
-        "manassehgitau",
         "offical",
         "paxs"
-    ],
-    "postman.settings.dotenv-detection-notification-visibility": false
+    ]
 }
